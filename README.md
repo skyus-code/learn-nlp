@@ -1,4 +1,4 @@
-My NLP Learning Progress
+🤖 My NLP Learning Progress
 
 ## Purpose
 - to make an Islamic AI Chatbot
