@@ -1,0 +1,9 @@
+text,intent
+jam sholat di bandung,jadwal_sholat
+waktu isya di yogyakarta,jadwal_sholat
+kapan waktu subuh di jakarta,jadwal_sholat
+siapa nabi pertama,tanya_nabi
+siapa nabi terakhir,tanya_nabi
+baca ayat kursi,baca_quran
+baca surat al ikhlas,baca_quran
+tolong bacain al fatihah,baca_quran
